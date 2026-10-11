@@ -1,0 +1,1 @@
+﻿-- Add app_user, role, user_role, and refresh_token tables here.

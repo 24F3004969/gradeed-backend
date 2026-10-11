@@ -1,0 +1,1 @@
+﻿-- Future migration for normalized timetable and timetable_slot tables.

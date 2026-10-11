@@ -1,0 +1,2 @@
+﻿-- Baseline PostgreSQL schema.
+-- Replace this placeholder with the validated schema exported after SQLite migration.

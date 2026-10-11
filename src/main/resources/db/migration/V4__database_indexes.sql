@@ -1,0 +1,1 @@
+﻿-- Add application indexes after measuring query requirements.
